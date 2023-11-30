@@ -1,0 +1,17 @@
+INPUT
+:-> solution=? <-:
+
+<--->
+
+INPUT
+:-> solution=? <-:
+
+<===>
+
+INPUT
+:-> solution=? <-:
+
+<--->
+
+INPUT
+:-> solution=? <-:
