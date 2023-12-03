@@ -1,4 +1,4 @@
-# Day X: Title
+# Day 1: Title
 
 ## Summary
 
@@ -9,4 +9,5 @@
 ⭐ **Part Two:** .
 
 ## Puzzle instructions
+
 https://adventofcode.com/2021/day/X
